@@ -13,10 +13,11 @@ ________________________________________________________________________________
 •	**GUI** – Streamlit
 
 **Getting Started**
+______________________________________________________________________________________________________________________________________________________________
 
-In this application caontains 4 pages in UI and those are all - Home page, Search, Display, Download
+This application caontains 4 pages in UI and those are all - Home page, Search, Display, Download
 
-      **Homepage**
+      ****Homepage****
 
 
 
