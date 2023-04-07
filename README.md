@@ -43,7 +43,7 @@ This page is designed to list out all the scraped keyword or hashtag in dropdown
 
 If user want to download the document into JSON, they can click Download data as Json 
 
-else go ahead with click Download data as CSV if they want CSV format
+else go ahead with click Download data as CSV if they want data into CSV format
 
 
 
