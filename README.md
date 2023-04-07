@@ -1,10 +1,10 @@
 **About The Project**
-____________________________________________________________________________________________________________________________________________________________
+---------------------
       
 This application helps us to scrap the data from twitter for the specific keyword or hashtag entered with given time period and number of tweets needs to scraped. After that, uploading the scraped data in MongoDB and downloading saved documents into Json and CSV formats
 
 **Built With**
-____________________________________________________________________________________________________________________________________________________________
+--------------
 
 •	**Language** – Python, Libraries used – snscrape, pandas, pymongo
 
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 •	**GUI** – Streamlit
 
 **Getting Started**
-____________________________________________________________________________________________________________________________________________________________
+-------------------
 
 This application contains 4 pages in UI and those are all - Home page, Search, Display, Download
 
