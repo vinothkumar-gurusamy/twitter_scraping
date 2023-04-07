@@ -15,9 +15,16 @@ ________________________________________________________________________________
 **Getting Started**
 ______________________________________________________________________________________________________________________________________________________________
 
-This application caontains 4 pages in UI and those are all - Home page, Search, Display, Download
+This application contains 4 pages in UI and those are all - Home page, Search, Display, Download
 
-      ****Homepage****
+**Homepage**
+This page tell us what application does and its flow
+
+**Search**
+User needs to choose either Keyword or hashtag for the scraping the data and need to provide other input such as - start date, end date, number of tweets to be scraped
+If we click Scrap the data button and it will show the scraped data into table format and we will one more button to upload the data into Mongo.
+Once upload is successful, we will get success message as Successfully data uploaded into MongoDB
+   
 
 
 
