@@ -17,7 +17,7 @@ db = client.demo
 collections = db.sample
 
 
-# Sidebar select box in GUI
+# Sidebar select box
 def sidebar_select_box(label, ls):
     sideSelRes = st.sidebar.selectbox(label, ls)
     return sideSelRes
@@ -47,7 +47,7 @@ def txt_input(options):
     return txtRes
 
 
-# Writing the label in GUI
+# Writing the label
 def write(label, val):
     st.write(label, val)
 
@@ -132,7 +132,7 @@ def check_avl_data():
     return retrieveOption
 
 
-# Display the MongoDB document for selected keyword or hashtag in GUI
+# Display the MongoDB document for selected keyword or hashtag
 def display_data(retrieveValue):
     global displayDoc
     for i in collections.find({"Scraped Word": retrieveValue}):
