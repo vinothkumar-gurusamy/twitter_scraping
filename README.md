@@ -46,5 +46,11 @@ If user want to download the document into JSON, they can click Download data as
 else go ahead with click Download data as CSV if they want data into CSV format
 
 
+Sample Document Saved in MongoDB
+
+<img width="532" alt="image" src="https://user-images.githubusercontent.com/129018424/230647740-686d31ed-8ceb-4241-91cd-472ec38a2fc5.png">
+
+
+
 
 
