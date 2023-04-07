@@ -44,7 +44,6 @@ def select_box(label, ls):
 # Passing text input
 def txt_input(options):
     txtRes = st.text_input(options, "")
-    # print(txtRes)
     return txtRes
 
 
