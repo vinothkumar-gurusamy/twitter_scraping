@@ -6,7 +6,7 @@ This application helps us to scrap the data from twitter for the specific keywor
 **Built With**
 --------------
 
-•	**Language** – Python, Libraries used – snscrape, pandas, pymongo
+•	**Language** – Python, **Libraries used** – snscrape, pandas, pymongo
 
 •	**NoSQL DB** - MongoDB
 
@@ -23,21 +23,24 @@ This page tell us what application does and its flow
 
 **Search**
 ----------
-User needs to choose either Keyword or hashtag for the scraping the data and need to provide other input such as - start date, end date, number of tweets to be scraped
+User needs to choose either Keyword or Hashtag for the scraping the data and needs to provide other input also such as - start date, end date, number of tweets to be scraped
 
-If we click Scrap the data button and it will show the scraped data into table format and we will one more button to upload the data into Mongo
+If we click Scrap the data button and it will show scraped data into table view and we will one more button to upload the data into MongoDB
 
-Once upload is successful, we will get success message as Successfully data uploaded into MongoDB
+Once data upload is successful, we will get a success message as Successfully data uploaded into MongoDB
    
 **Display**
 -----------
 
-This page is designed to list out all the scraped keyword or hashtag in dropdown button. So user can choose any one of input from dropdown and saved document will be displayed for choosed one
+This page is designed to list out all the scraped keyword or hashtag in dropdown button. So user can choose any one of scraped word from dropdown and saved document will be displayed for choosed scraped word
 
 **Download**
 ------------
 
-This page is designed to list out all the scraped keyword or hashtag in dropdown button. So user can choose any one of input from dropdown and if user want to download the document into JSON, they can click Download data as Json or else go ahead with click Download data as CSV if they want CSV format
+This page is designed to list out all the scraped keyword or hashtag in dropdown button. So user can choose any one of input from dropdown.
+
+If user want to download the document into JSON, they can click Download data as Json 
+else go ahead with click Download data as CSV if they want CSV format
 
 
 
