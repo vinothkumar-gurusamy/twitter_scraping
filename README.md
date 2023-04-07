@@ -32,7 +32,9 @@ Once data upload is successful, we will get a success message as Successfully da
 **Display**
 -----------
 
-This page is designed to list out all the scraped keyword or hashtag in dropdown button. So user can choose any one of scraped word from dropdown and saved document will be displayed for choosed scraped word
+This page is designed to list out all the scraped keyword or hashtag in dropdown button. 
+
+So user can choose any one of scraped word from dropdown and saved document will be displayed for choosed scraped word
 
 **Download**
 ------------
@@ -40,6 +42,7 @@ This page is designed to list out all the scraped keyword or hashtag in dropdown
 This page is designed to list out all the scraped keyword or hashtag in dropdown button. So user can choose any one of input from dropdown.
 
 If user want to download the document into JSON, they can click Download data as Json 
+
 else go ahead with click Download data as CSV if they want CSV format
 
 
